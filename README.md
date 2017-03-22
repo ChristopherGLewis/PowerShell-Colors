@@ -1,1 +1,2 @@
-PowerShell-Colors
+# PowerShell-Colors
+Outputs all PS colors
